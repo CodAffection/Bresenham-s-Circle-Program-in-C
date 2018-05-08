@@ -1,7 +1,7 @@
 # Bresenham's Circle Program in C
 Program shows how you can draw a circle in c programming.
 
-#Demo
+# Demo
 <a href="http://www.youtube.com/watch?feature=player_embedded&v=ImlhkHCHFMA
 " target="_blank"><img src="http://img.youtube.com/vi/ImlhkHCHFMA/0.jpg" 
 alt="Demo for Bresenham's Circle Program in C" width="500" height="400" border="10" /></a>
